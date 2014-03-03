@@ -1,0 +1,1 @@
+This application will make your board games go faster. 
